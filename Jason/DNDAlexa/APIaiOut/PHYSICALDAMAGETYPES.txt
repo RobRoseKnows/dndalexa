@@ -1,0 +1,19 @@
+physical
+slashing
+piercing
+bludgeoning
+physical damage
+slash
+slashing damage
+slash damage
+pierce
+piercing damage
+pierce damage
+puncture
+puncture damage
+bludgeoning damage
+beating
+beat
+beating damage
+beat up
+beat damage

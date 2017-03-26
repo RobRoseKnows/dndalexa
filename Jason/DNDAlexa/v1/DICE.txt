@@ -1,105 +1,16 @@
-percentiles
-dtwenty
-dtwelve
-dten
-decader
-deight
-dfour
-coin
-dsix
-done hundred
-d one hundred
-one hundred
-percent
 percentile
-d hundred
+one hundred
 hundred
-done hundreds
-done hundred's
-one hundreds
-one hundred's
-percents
-percent's
-percentile's
-d one hundreds
-d one hundred's
-d hundreds
-d hundred's
-hundreds
-hundred's
-d%
-d %
-d%'s
-d%s
-d %'s
-d %s
-d twenty
-twenty
-dtwentys
-dtwenty's
-d twentys
-d twenty's
-twentys
-twenty's
-twenties
-initiative
-d twelve
-twelve
-dtwelves
-dtwelve's
-d twelves
-d twelve's
-d tewelve's
-twelves
-twelve's
-d ten
-ten
-dtens
-dten's
-d tens
-d ten's
-tens
-ten's
+percent
 base ten
 tens ten
-base tens
-base ten's
-tens tens
-tens ten's
-d eight
+decader
+twenty
+initiative
+twelve
+ten
 eight
-deight's
-deights
-d eight's
-d eights
-eights
-eight's
-d four
 four
-dfour's
-dfours
-d four's
-d fours
-four's
-fours
-dtwo
-d two
-two
-coin's
-coins
-dtwo's
-dtwos
-d two's
-d twos
-two's
-twos
-d six
 six
-dsix's
-dsixs
-d six's
-d sixs
-six's
-sixs
-sixes
-d sixes
+two
+coin

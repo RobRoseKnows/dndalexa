@@ -1,0 +1,10 @@
+platinum
+gold
+electrum
+silver
+copper
+pp
+gp
+ep
+sp
+cp
