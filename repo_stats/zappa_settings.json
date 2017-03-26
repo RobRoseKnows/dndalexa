@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "app_function": "repo_stats.app", 
+        "s3_bucket": "zappa-jbf6a9sl1"
+    }
+}
