@@ -1,0 +1,58 @@
+magic_damage
+acid
+fire
+cold
+poison
+necrotic
+radiant
+lightning
+psychic
+thunder
+force
+any
+all
+every
+magical
+magic
+magical damage
+magic damage
+acid damage
+acidic
+acidic damage
+heat
+flame
+fire damage
+heat damage
+flame damage
+frost
+chill
+cold damage
+frost damage
+chill damage
+poison damage
+toxic
+toxic damage
+venom
+venom damage
+nectrotic damage
+necro
+necro damage
+radiant damage
+holy
+holy damage
+divine
+divine damage
+lightning damage
+electric
+electric damage
+electricity
+electricity damage
+shock
+shock damage
+psychic damage
+psy
+psy damage
+thunder damage
+sound
+sound damage
+force damage

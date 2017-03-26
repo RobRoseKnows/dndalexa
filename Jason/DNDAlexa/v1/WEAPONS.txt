@@ -1,0 +1,235 @@
+club
+dagger
+greatclub
+handaxe
+javelin
+light-hammer
+mace
+quarterstaff
+sickle
+spear
+light-crossbow
+dart
+shortbow
+sling
+battleaxe
+flail
+glaive
+greataxe
+greatsword
+halberd
+lance
+longsword
+maul
+morningstar
+pike
+rapier
+scimitar
+shortsword
+trident
+war-pick
+warhammer
+whip
+blowgun
+hand-crossbow
+heavy-crossbow
+longbow
+net
+unarmed
+improv
+any
+all
+every
+clubs
+club's
+daggers
+dagger's
+greatclubs
+great club
+great clubs
+great-club
+great-clubs
+greatclub's
+great club's
+great-club's
+handaxes
+hand axe
+hand axes
+hand-axe
+hand-axes
+handaxe's
+hand axe's
+hand-axe's
+javelins
+javelin's
+light-hammers
+light hammer
+light hammers
+light-hammer's
+light hammer's
+maces
+mace's
+quarterstaffs
+quarter-staff
+quarter-staffs
+quarter staff
+quarter staffs
+quarterstaff's
+quarter-staff's
+quarter staff's
+sickles
+sickle's
+spears
+spear's
+light crossbow
+light crossbows
+light-crossbows
+crossbow, light
+crossbows, light
+light crossbow's
+light-crossbow's
+crossbow's, light
+darts
+dart's
+shortbows
+short bow
+short bows
+short-bow
+short-bows
+shortbow's
+short bow's
+short-bow's
+slings
+sling's
+battleaxes
+battle axe
+battle axes
+battle-axe
+battle-axes
+battleaxe's
+battle axe's
+battle-axe's
+flails
+flail's
+glaives
+glaive's
+greataxes
+great axe
+great axes
+great-axe
+great-axes
+greataxe's
+great axe's
+great-axe's
+greatswords
+great sword
+great swords
+great-sword
+great-swords
+greatsword's
+great sword's
+great-sword's
+halberds
+halberd's
+lances
+lance's
+longswords
+long sword
+long swords
+long-sword
+long-swords
+longsword's
+long sword's
+long-sword's
+mauls
+maul's
+mornningstars
+morning star
+morning stars
+morning-star
+morning-stars
+morningstar's
+morning star's
+morning-star's
+pikes
+pike's
+rapiers
+rapier's
+scimitars
+scimitar's
+shortswords
+short sword
+short swords
+short-sword
+short-swords
+shortsword's
+short sword's
+short-sword's
+tridents
+trident's
+war pick
+war picks
+warpick
+warpicks
+war-picks
+war pick's
+warpick's
+war-pick's
+warhammers
+war hammer
+war hammers
+war-hammer
+war-hammers
+warhammer's
+war hammer's
+war-hammer's
+whips
+whip's
+blowguns
+blowgun's
+blow gun
+blow guns
+blow gun's
+blow-gun
+blow-guns
+blow-gun's
+hand crossbow
+hand crossbows
+hand crossbow's
+hand-crossbows
+hand-crossbow's
+crossbow, hand
+crossbows, hand
+crossbow's, hand
+heavy crossbow
+heavy crossbows
+heavy crossbow's
+heavy-crossbows
+heavy-crossbow's
+crossbow, heavy
+crossbows, heavy
+crossbow's, heavy
+longbows
+longbow's
+long bow
+long bows
+long bow's
+long-bow
+long-bows
+long-bow's
+nets
+net's
+no weapon
+none
+hands
+fists
+nothing
+improved weapon
+random object
+object
+any weapon
+any weapons
+all weapon
+all weapons
+every weapon
+every weapons

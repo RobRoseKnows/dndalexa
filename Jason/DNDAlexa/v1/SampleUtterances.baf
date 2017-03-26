@@ -1,0 +1,53 @@
+Pagerequest	can you search the {rulebooksslot} for the page on {characterclassslot}
+Pagerequest	can you search the {rulebooksslot} for the page on {characterracesslot}
+Pagerequest	what is the {rulebooksslot} page for {characterclassslot}
+Pagerequest	what page is the {characterclassslot} on
+Pagerequest	what page is the {characterracesslot} on
+Pagerequest	where are {characterclassslot} in the {rulebooksslot}
+Pagerequest	where are {characterracesslot} in the {rulebooksslot}
+Pagerequest	where can i find the {characterracesslot} page
+Pagerequest	where can i learn about {characterclassslot}
+Pagerequest	where can i learn about {characterracesslot}
+Pagerequest	where can i learn more about {characterclassslot}
+Pagerequest	where can i read about {characterclassslot}
+Pagerequest	where can i read about {characterracesslot}
+Pagerequest	where in the {rulebooksslot} is the {characterracesslot}
+Diceroll	flip a {diceslot}
+Diceroll	flip me a {diceslot}
+Diceroll	roll a {diceslot}
+Diceroll	roll a {diceslot} with {vantageslot}
+Diceroll	roll for {diceslot}
+Diceroll	roll me a {diceslot}
+Diceroll	roll me a {diceslot} with {vantageslot}
+Diceroll	roll me {diceslot}
+Diceroll	roll us a {diceslot}
+Diceroll	roll {diceslot}
+Diceroll	roll {diceslot} with {vantageslot}
+Diceroll	uh roll me a {diceslot}
+Diceroll	umm roll a {diceslot}
+Fantasycurrencyconverter	can you convert {numberslot} {unitsoffantasycurrencyslot} to {unitsoffantasycurrencyslot}
+Fantasycurrencyconverter	convert {numberslot} {unitsoffantasycurrencyslot} to {unitsoffantasycurrencyslot}
+Fantasycurrencyconverter	how much is {numberslot} {unitsoffantasycurrencyslot}
+Fantasycurrencyconverter	how much {unitsoffantasycurrencyslot} is {numberslot} {unitsoffantasycurrencyslot}
+Fantasycurrencyconverter	how much {unitsoffantasycurrencyslot} should i get for {numberslot} {unitsoffantasycurrencyslot}
+Fantasycurrencyconverter	how much {unitsoffantasycurrencyslot} should i get from {numberslot} {unitsoffantasycurrencyslot}
+Fantasycurrencyconverter	how much {unitsoffantasycurrencyslot} should i give for {numberslot} {unitsoffantasycurrencyslot}
+Fantasycurrencyconverter	what is {numberslot} {unitsoffantasycurrencyslot} in {unitsoffantasycurrencyslot}
+Fantasycurrencyconverter	what is {numberslot} {unitsoffantasycurrencyslot} worth in {unitsoffantasycurrencyslot}
+Askaboutweaponproperties	are there {weaponsslot} {weaponpropertiesslot} {weaponpropertiesslot} {weaponsslot} with {physicaldamagetypesslot}
+Askaboutweaponproperties	can i have {numberslot} examples of {weaponpropertiesslot} {weaponpropertiesslot}
+Askaboutweaponproperties	can you give me an example of a {weaponpropertiesslot} {weaponpropertiesslot} {weaponsslot}
+Askaboutweaponproperties	can you give me {weaponsslot}
+Askaboutweaponproperties	how much do a {weaponsslot} and {weaponsslot} {weaponpropertiesslot}
+Askaboutweaponproperties	how much does a {weaponsslot} {weaponpropertiesslot}
+Askaboutweaponproperties	how {weaponpropertiesslot} is a {weaponsslot}
+Askaboutweaponproperties	is a {weaponsslot} a {weaponpropertiesslot}
+Askaboutweaponproperties	is a {weaponsslot} {weaponpropertiesslot}
+Askaboutweaponproperties	is there {weaponsslot}
+Askaboutweaponproperties	is there {weaponsslot} with {magicaldamagetypesslot}
+Askaboutweaponproperties	list {weaponpropertiesslot} that do pierce {weaponpropertiesslot}
+Askaboutweaponproperties	list {weaponpropertiesslot} that do piercing {weaponpropertiesslot}
+Askaboutweaponproperties	what is a {weaponsslot}
+Askaboutweaponproperties	what is the {weaponpropertiesslot} of a {weaponsslot}
+Askaboutweaponproperties	what {weaponpropertiesslot} does a {weaponsslot} do
+Askaboutweaponproperties	what {weaponpropertiesslot} {weaponsslot} can be {weaponpropertiesslot}
